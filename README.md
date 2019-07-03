@@ -9,4 +9,4 @@
 
 ## 示例
 
-- [Gitlab-runbooks ](https://gitlab.com/gitlab-com/runbooks) This project provides a guidance for Infrastructure Reliability Engineers and Managers who are starting an on-call shift or responding to an incident
+- [Gitlab-runbooks ](https://gitlab.com/gitlab-com/runbooks) GitLab 的运维体系和细节完全对外公开
